@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(200, 221, 217);
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.counter-container {
+  margin: 20px;
+  margin-top: 50px;
+}
+.counter {
+  font-size: 50px;
+  color: brown;
+}
+.fa-mug-hot,
+.fa-users,
+.fa-tasks {
+  color: rgb(133, 29, 143);
+}
+span {
+  color: hotpink;
+}
