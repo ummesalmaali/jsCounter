@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(200, 221, 217);
+  background-color: #27c5a88f;
 }
 
 .main-container {
@@ -18,8 +18,8 @@ body {
 .fa-mug-hot,
 .fa-users,
 .fa-tasks {
-  color: rgb(133, 29, 143);
+  color: rgb(29, 143, 124);
 }
 span {
-  color: hotpink;
+  color: rgb(53, 50, 12);
 }
